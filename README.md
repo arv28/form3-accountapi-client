@@ -1,6 +1,8 @@
+### Form3 Take Home Exercise (Name: Aravind Venkatesan - Golang exp: 2yrs) 
+
 
 ## Overview
-form3-accountapi-client is a Go client library for accessing the fake account api. It supports the following operations on the accounts resource:
+**form3-accountapi-client** is a Go client library for accessing the fake account api. It supports the following operations on the accounts resource:
 - Create - create a new account resource
 - Fetch - Fetch an existing account based on id
 - Delete - Delete an existing account resource
@@ -35,3 +37,4 @@ Following best practices were used during the development
 - Unit tests and coverage for Client libraries
 - Supports different error objects based on the response status code (we could extend this more in future)
 - Minimal dependency on external or third party libraries
+- 
