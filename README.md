@@ -1,4 +1,4 @@
-### Form3 Take Home Exercise (Name: Aravind Venkatesan - Golang exp: 2yrs) 
+### Form3 Take Home Exercise (Name: Aravind Venkatesan) 
 
 
 ## Overview
