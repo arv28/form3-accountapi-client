@@ -37,4 +37,4 @@ Following best practices were used during the development
 - Unit tests and coverage for Client libraries
 - Supports different error objects based on the response status code (we could extend this more in future)
 - Minimal dependency on external or third party libraries
-- 
+
