@@ -1,0 +1,91 @@
+[
+    {
+        "type": "accounts",
+        "id": "df051b55-1f02-4b55-aa6a-4931c332123b",
+        "organisation_id": "02b6e226-fe20-442b-b7b9-e73338872622",
+        "version": 0,
+        "attributes": {
+          "country": "GB",
+          "base_currency": "GBP",
+          "bank_id": "400300",
+          "bank_id_code": "GBDSC",
+          "bic": "NWBKGB22",
+          "name": [
+            "Samantha Holder"
+          ],
+          "account_classification": "Personal",
+          "joint_account": false,
+          "account_matching_opt_out": false,
+          "secondary_identification": "A1B2C3D4",
+          "switched": false
+        }
+    },
+    {
+      "type": "accounts",
+      "id": "ad27e265-9605-4b4b-a0e5-3003ea9cc4dc",
+      "organisation_id": "eb0bd6f5-c3f5-44b2-b677-acd23cdde73c",
+      "version": 0,
+      "attributes": {
+        "country": "GB",
+        "base_currency": "GBP",
+        "account_number": "41426819",
+        "bank_id": "400300",
+        "bank_id_code": "GBDSC",
+        "bic": "NWBKGB22",
+        "name": [
+          "John Holder"
+        ],
+        "account_classification": "Personal",
+        "joint_account": false,
+        "account_matching_opt_out": false,
+        "secondary_identification": "A1B2C3D4",
+        "switched": false
+      }
+    },
+    {
+      "type": "accounts",
+      "id": "c2743ea9-8cd8-4558-9e5c-d7ca3cd5f180",
+      "organisation_id": "eb0bd6f5-c3f5-44b2-b677-acd23cdde73c",
+      "version": 0,
+      "attributes": {
+        "country": "AU",
+        "base_currency": "AUD",
+        "account_number": "41426820",
+        "bank_id": "200300",
+        "bank_id_code": "AUBSB",
+        "bic": "NDHDHD33",
+        "name": [
+          "Aussie Holder"
+        ],
+        "account_classification": "Personal",
+        "joint_account": false,
+        "account_matching_opt_out": false,
+        "secondary_identification": "A1B2C3D4",
+        "switched": false
+      }
+    },
+    {
+      "type": "accounts",
+      "id": "6f22743b-9787-4c08-b8b9-ef6d444b870d",
+      "organisation_id": "eb0bd6f5-c3f5-44b2-b677-acd23cdde73c",
+      "version": 0,
+      "attributes": {
+        "country": "CA",
+        "base_currency": "CAD",
+        "account_number": "41426832",
+        "bank_id": "200300",
+        "bank_id_code": "CACPA",
+        "bic": "NDHDHD36",
+        "name": [
+          "Canada Holder"
+        ],
+        "account_classification": "Personal",
+        "joint_account": false,
+        "account_matching_opt_out": false,
+        "secondary_identification": "A1B2C3D4",
+        "switched": false
+      }
+    }
+
+
+]

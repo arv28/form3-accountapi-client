@@ -1,6 +1,12 @@
 version: '3'
 
 services:
+  form3-accountapi-client:
+    build: .
+    depends_on:
+      - accountapi
+    environment:
+      - HOST_URL=http://accountapi:8080
   accountapi:
     image: form3tech/interview-accountapi:v1.0.0-50-ga251d4fc
     restart: on-failure
